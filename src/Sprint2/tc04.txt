@@ -1,0 +1,3 @@
+test case for tc04
+add some line and line
+ and more lines
